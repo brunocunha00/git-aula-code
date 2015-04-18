@@ -1,1 +1,1 @@
-<?php echo("Arquivo de Teste"); ?>
+<?php echo("Arquivo de Teste alterado"); ?>
