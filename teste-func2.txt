@@ -1,0 +1,3 @@
+<?php
+	echo("Teste func2.txt");
+?>
